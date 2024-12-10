@@ -29,6 +29,12 @@ This project implements a Fashion Classifier using the MNIST dataset with Tensor
 ### Bag
 ### Ankle boot
 
+## Dataset:
+  ```bash
+  kaggle datasets download -d zalando-research/fashionmnist
+  ```
+  Dataset URL: https://www.kaggle.com/datasets/zalando-research/fashionmnist
+
 ## Results
 The model predicts the class of the fashion item in the input image and displays the result with a title indicating the predicted class.
 
